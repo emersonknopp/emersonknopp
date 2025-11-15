@@ -51,7 +51,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 - **Docker** (para entender deploy e ambientes)
 
 - ## 🧠 Habilidades que estou desenvolvendo ativamente
-- 
+
 - Desenvolvimento web com **Flask**  
 - Manipulação de dados com **Pandas**  
 - Automação e testes com **Selenium** e **PyAutoGUI**  
@@ -60,7 +60,6 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 - Introdução a APIs, JSON e integração de serviços  
 
 ---
-
 ## 📚 O que estou fazendo agora
 - Estudando fundamentos da programação  
 - Criando pequenos projetos para treinar lógica  
