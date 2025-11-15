@@ -7,6 +7,17 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
+## 📫 Contato e Redes
+
+[![Email](https://img.shields.io/badge/Email-emersonkauan269@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:emersonkauan269@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5547991355744-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5547991355744)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmersonKnopp-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@emerson_knopp-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_knopp/)  
+
+
+
+
+
 ###
 
 
@@ -86,12 +97,6 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ## 🎯 Objetivo
 Aplicar meus conhecimentos em ambientes reais, contribuir com projetos e evoluir continuamente dentro da área de desenvolvimento e análise de dados.
-
----
-
-## 📫 Como me encontrar
-- Email: emersonkauan269@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/ 
 
 ---
 
