@@ -1,6 +1,4 @@
-# 🐱‍👤 Olá! Eu sou Emerson Knopp <div align="center">
-  <img height="200" src="https://usagif.com/wp-content/uploads/gifs/moon-47.gif"  />
-</div>
+# 🐱‍👤 Olá! Eu sou Emerson Knopp 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,9 +80,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmersonKnopp&show_icons=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonKnopp&layout=compact&theme=tokyonight)
+![EmersonKnopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmersonKnopp&show_icons=true&theme=dark)
 
 ---
 
