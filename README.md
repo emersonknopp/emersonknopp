@@ -1,9 +1,16 @@
-# 🐱‍👤 Olá! Eu sou Emerson Knopp
+# 🐱‍👤 Olá! Eu sou Emerson Knopp <div align="center">
+  <img height="200" src="https://usagif.com/wp-content/uploads/gifs/moon-47.gif"  />
+</div>
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+###
+
 
 “Transformando curiosidade em código.”
 
@@ -93,5 +100,4 @@ Aplicar meus conhecimentos em ambientes reais, contribuir com projetos e evoluir
 ---
 
 ⭐ *Obrigado por visitar! Sinta-se à vontade para explorar meus projetos.*
-
 
