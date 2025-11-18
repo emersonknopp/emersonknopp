@@ -24,7 +24,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ---
 
-## 🚀 Tecnologias com as quais já trabalhei
+## Tecnologias com as quais já trabalhei
 - **Python** – scripts, automações e projetos pessoais  
 - **HTML & CSS** – páginas simples e experimentos  
 - **JavaScript** – conceitos iniciais e manipulação básica  
@@ -34,7 +34,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ---
 
-## 🧠 Habilidades que quero aprender em breve  
+##  Habilidades que quero aprender em breve  
 
 - **Frameworks Python** → *Flask*, *FastAPI*, *Django*  
 - **Bibliotecas de dados** → *Pandas*, *NumPy*, *Matplotlib*  
@@ -45,7 +45,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 - **Cloud básico** → *AWS* ou *Azure*  
 - **Docker** (para entender deploy e ambientes)
 
-- ## 🧠 Habilidades que estou desenvolvendo ativamente
+- ## Habilidades que estou desenvolvendo ativamente
 
 - Desenvolvimento web com **Flask**  
 - Manipulação de dados com **Pandas**  
@@ -55,7 +55,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 - Introdução a APIs, JSON e integração de serviços  
 
 ---
-## 📚 O que estou fazendo agora
+##  O que estou fazendo agora
 - Estudando fundamentos da programação  
 - Criando pequenos projetos para treinar lógica  
 - Explorando ferramentas como VS Code e PyCharm  
@@ -63,7 +63,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ---
 
-## 🧪 Projetos que pretendo construir
+##  Projetos que pretendo construir
 *(coloque isso no README mesmo antes de criar — mostra direção e propósito)*
 
 - ✔ Sistema simples de cadastro em Python (CRUD)  
@@ -74,7 +74,7 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 
 ---
 
-## 🛠 Ferramentas
+##  Ferramentas
 - **VS Code**
 - **PyCharm**
 - **GitHub**
