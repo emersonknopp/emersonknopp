@@ -9,12 +9,7 @@
 
 ## 📫 Contato e Redes
 
-[![Email](https://img.shields.io/badge/Email-emersonkauan269@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:emersonkauan269@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-5547991355744-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5547991355744)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmersonKnopp-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@emerson_knopp-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_knopp/)  
-
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonkawaan269@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991355744) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kawaan-de-oliveira-kropp-65a2b2b9/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.kropp/)
 
 
 
