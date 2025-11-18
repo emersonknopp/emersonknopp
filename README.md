@@ -9,8 +9,7 @@
 
 ## 📫 Contato e Redes
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonkawaan269@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991355744) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kawaan-de-oliveira-kropp-65a2b2b9/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.kropp/)
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=emersonkauan269@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991355744) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.kropp/)
 
 
 ###
@@ -18,7 +17,7 @@
 
 “Transformando curiosidade em código.”
 
-## 🧩 Desenvolvedor em formação com foco em Python e análise de dados  
+##  Desenvolvedor em formação com foco em Python e análise de dados  
 Estudante dedicado, desenvolvendo projetos práticos para fortalecer minha base em programação.  
 Interesse em **Python, automação, desenvolvimento web, ciência de dados e boas práticas de engenharia de software**.
 
@@ -66,11 +65,11 @@ Interesse em **Python, automação, desenvolvimento web, ciência de dados e boa
 ##  Projetos que pretendo construir
 *(coloque isso no README mesmo antes de criar — mostra direção e propósito)*
 
-- ✔ Sistema simples de cadastro em Python (CRUD)  
-- ✔ Automação de tarefas no PC com Python  
-- ✔ Página web pessoal com HTML + CSS  
-- ✔ API simples usando Flask  
-- ✔ Dashboard básico usando dados públicos
+-  Sistema simples de cadastro em Python (CRUD)  
+-  Automação de tarefas no PC com Python  
+-  Página web pessoal com HTML + CSS  
+-  API simples usando Flask  
+-  Dashboard básico usando dados públicos
 
 ---
 
