@@ -12,86 +12,22 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=emersonkauan269@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991355744) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.kropp/)
 
 
-###
+### 🚀 Sobre Mim
+Analista de Dados & Desenvolvedor focado em transformar grandes volumes de dados em insights estratégicos utilizando Python, SQL e Big Data.
 
-
-“Transformando curiosidade em código.”
-
-##  Desenvolvedor em formação com foco em Python e análise de dados  
-Estudante dedicado, desenvolvendo projetos práticos para fortalecer minha base em programação.  
-Interesse em **Python, automação, desenvolvimento web, ciência de dados e boas práticas de engenharia de software**.
+* 👨‍💻 **Desenvolvedor** com foco em Back-end e Big Data (Spark/PySpark).
+* 📊 **Especialista** em Power BI e consultas complexas em SQL.
+* 🎓 **Background acadêmico** em Sociologia e Educação, trazendo uma visão analítica e crítica para os dados.
 
 ---
 
-## Tecnologias com as quais já trabalhei
-- **Python** – scripts, automações e projetos pessoais  
-- **HTML & CSS** – páginas simples e experimentos  
-- **JavaScript** – conceitos iniciais e manipulação básica  
-- **Git & GitHub** – versionamento, branches e fluxo de trabalho  
-- **SQL** – consultas básicas e manipulação de tabelas  
-
+### 🛠️ Tecnologias e Ferramentas
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-##  Habilidades que quero aprender em breve  
-
-- **Frameworks Python** → *Flask*, *FastAPI*, *Django*  
-- **Bibliotecas de dados** → *Pandas*, *NumPy*, *Matplotlib*  
-- **Automação** → *Selenium*, *PyAutoGUI*  
-- **Versionamento avançado** → Git Flow e boas práticas  
-- **Desenvolvimento Web** → *React*, *APIs REST*, *Bootstrap*  
-- **Bancos de Dados** → *PostgreSQL*, *SQLite*, *MongoDB*  
-- **Cloud básico** → *AWS* ou *Azure*  
-- **Docker** (para entender deploy e ambientes)
-
-- ## Habilidades que estou desenvolvendo ativamente
-
-- Desenvolvimento web com **Flask**  
-- Manipulação de dados com **Pandas**  
-- Automação e testes com **Selenium** e **PyAutoGUI**  
-- Estruturas de dados e lógica avançada  
-- Boas práticas de código (PEP8, modularização, docstrings)  
-- Introdução a APIs, JSON e integração de serviços  
+### 📌 Projetos em Destaque
+* [📊 Análise de Performance de Vendas (SQL)](https://github.com/EmersonKnopp/analise-vendas-sql) - Uso de Window Functions e CTEs para métricas de crescimento.
+* [📈 Engenharia de Produção com IA (Power BI)](https://github.com/EmersonKnopp/dashboard-performance-vendas) - Previsão de séries temporais e detecção de anomalias.
 
 ---
-##  O que estou fazendo agora
-- Estudando fundamentos da programação  
-- Criando pequenos projetos para treinar lógica  
-- Explorando ferramentas como VS Code e PyCharm  
-- Aprendendo Git e criando repositórios organizados  
-
----
-
-##  Projetos que pretendo construir
-*(coloque isso no README mesmo antes de criar — mostra direção e propósito)*
-
--  Sistema simples de cadastro em Python (CRUD)  
--  Automação de tarefas no PC com Python  
--  Página web pessoal com HTML + CSS  
--  API simples usando Flask  
--  Dashboard básico usando dados públicos
-
----
-
-##  Ferramentas
-- **VS Code**
-- **PyCharm**
-- **GitHub**
-- **Jupyter Notebook**
-- **Brave / Chrome DevTools**
-
----
-
-##  Estatísticas do GitHub
-
-![EmersonKnopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmersonKnopp&show_icons=true&theme=dark)
-
----
-
-##  Objetivo
-Aplicar meus conhecimentos em ambientes reais, contribuir com projetos e evoluir continuamente dentro da área de desenvolvimento e análise de dados.
-
----
-
-⭐ *Obrigado por visitar! Sinta-se à vontade para explorar meus projetos.*
-
