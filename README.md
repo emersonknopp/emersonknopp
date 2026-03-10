@@ -21,5 +21,5 @@ Analista de Dados & Desenvolvedor focado em transformar grandes volumes de dados
 ### 📌 Projetos em Destaque
 * [📊 Análise de Performance de Vendas (SQL)](https://github.com/EmersonKnopp/analise-vendas-sql) - Uso de Window Functions e CTEs para métricas de crescimento.
 * [📈 Engenharia de Produção com IA (Power BI)](https://github.com/EmersonKnopp/dashboard-performance-vendas) - Previsão de séries temporais e detecção de anomalias.
-
+* [The Tilt Factor & Win-Condition Optimizer (Python)](https://github.com/EmersonKnopp/tilt-optimizer-lol) - Análise de micro-eficiência e comportamento de dados via API da Riot Games.
 ---
